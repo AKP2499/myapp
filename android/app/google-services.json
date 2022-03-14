@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875671843933",
+    "project_id": "login-ff48a",
+    "storage_bucket": "login-ff48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875671843933:android:aae667d676a64e7c6ac9b4",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875671843933-vft7llej7491b1bf9fc4f5aeau963mtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_t_JEhTx8CptjAkww7RusGbeid9jSIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875671843933-vft7llej7491b1bf9fc4f5aeau963mtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
